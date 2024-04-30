@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Alisauska</h1>
-- 🔭 I’m currently working at [PLIN Energia](https://www.linkedin.com/company/plinenergia/) as a Frontend Developer
+- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/plinenergia/" target="_blank">PLIN Energia</a> as a Frontend Developer
 
 - 💬 Ask me about **React, Next.js, Javascript, Typescript**
 
