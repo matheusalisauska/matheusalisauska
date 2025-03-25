@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matheus Alisauska</h1>
-- 💬 Ask me about **React, Next.js, Javascript, Typescript**
+- 💬 Ask me about React, Next.js, Javascript, Typescript
 
 - 📫 How to reach me **matheusalisauska@gmail.com**
 
