@@ -11,4 +11,4 @@ Frontend Developer with **3+ years of experience** and a **Bachelor’s degree i
 
 [![Javascript](https://skillicons.dev/icons?i=aws,vercel,heroku,git,github,npm,yarn,figma)](https://skillicons.dev)
 
- **Featured Project:** [Moock API Platform](https://github.com/matheusalisauska/moock)
+ **Featured Project:** [Moock API Platform](https://github.com/matheusalisauska/mock)
